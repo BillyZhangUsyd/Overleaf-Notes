@@ -98,7 +98,7 @@ CONTENTS GO HERE
 \end{figure}
 ```
 
-![image-20210705153828022](/Users/wanliangzhang/Library/Application Support/typora-user-images/image-20210705153828022.png)
+![Xnip2021-07-05_15-48-04](https://tva1.sinaimg.cn/large/008i3skNgy1gs60yi50k1j31w00r6q9a.jpg)
 
 ## Equations
 
@@ -108,7 +108,7 @@ CONTENTS GO HERE
 \end{equation}
 ```
 
-Where `\mbox` is no Italics, `\qquad` is spaces, `frac{numerater}{denominator}` ,<img src="/Users/wanliangzhang/Documents/Screenshot Xnip/Xnip2021-07-05_15-29-23.jpg" alt="Xnip2021-07-05_15-29-23" style="zoom:67%;" />
+Where `\mbox` is no Italics, `\qquad` is spaces, `frac{numerater}{denominator}` ,![Xnip2021-07-05_15-50-04](https://tva1.sinaimg.cn/large/008i3skNgy1gs610g2cesj31qm05i0ta.jpg)
 
 ## Tables
 
@@ -134,4 +134,4 @@ Density of soil & 2000 & $kg/{m^3}$\\
 \end{table}
 ```
 
-<img src="/Users/wanliangzhang/Library/Application Support/typora-user-images/image-20210705153536786.png" alt="image-20210705153536786" style="zoom:80%;" />
+![Xnip2021-07-05_15-49-08](https://tva1.sinaimg.cn/large/008i3skNgy1gs60zmdownj31k60pugpq.jpg)
